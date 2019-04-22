@@ -1,31 +1,31 @@
-#pypilist
+# pypilist
 >List packages in PyPI.
 
-##Install
+## Install
 
 ```
 $ pip install pypilist
 ```
 
-##Usage
+## Usage
 
 ```python
  >> import pypilist
  >> pypilist.show()		# Prints out the list of all the packages
  >> pypilist.list()		# Returns a json of all the packages
 ```
-####As a CLI app
+#### As a CLI app
 
 ```
 $ pypilist
 ```
 
 
-#Contribute
+# Contribute
 
 If you want to add features, improve them, or report issues, feel free to send a pull request.
 
 
-#License
+# License
 
 MIT © [Harsha Srinivas](https://harshasrinivas.me)
